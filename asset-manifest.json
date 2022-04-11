@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/arcierim.github.io/static/css/main.2dba0053.css",
-    "main.js": "/arcierim.github.io/static/js/main.535b2f9b.js",
-    "static/media/CoverVideo.mp4": "/arcierim.github.io/static/media/CoverVideo.be2ba161825949956e06.mp4",
-    "static/media/about.jpg": "/arcierim.github.io/static/media/about.982f2d466918c01e3b2e.jpg",
-    "index.html": "/arcierim.github.io/index.html",
-    "main.2dba0053.css.map": "/arcierim.github.io/static/css/main.2dba0053.css.map",
-    "main.535b2f9b.js.map": "/arcierim.github.io/static/js/main.535b2f9b.js.map"
+    "main.css": "/static/css/main.2dba0053.css",
+    "main.js": "/static/js/main.48d2de08.js",
+    "static/media/CoverVideo.mp4": "/static/media/CoverVideo.be2ba161825949956e06.mp4",
+    "static/media/about.jpg": "/static/media/about.982f2d466918c01e3b2e.jpg",
+    "index.html": "/index.html",
+    "main.2dba0053.css.map": "/static/css/main.2dba0053.css.map",
+    "main.48d2de08.js.map": "/static/js/main.48d2de08.js.map"
   },
   "entrypoints": [
     "static/css/main.2dba0053.css",
-    "static/js/main.535b2f9b.js"
+    "static/js/main.48d2de08.js"
   ]
 }
