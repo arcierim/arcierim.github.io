@@ -5,7 +5,7 @@ const slidesInfo = [
   {
     src:
       "https://cdn.pixabay.com/photo/2016/12/19/08/39/mobile-phone-1917737_960_720.jpg",
-    alt: "Project 1",
+    alt: "Project 4",
     desc: "Project 4",
     onClick: href = "https://arcierim.github.io/Sticky-Memories-App/",
   },
